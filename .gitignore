@@ -1,0 +1,3 @@
+# Add the files/folder u dont want to be published in remote like node_modules
+# Will ignore the node_modules folder in current folder and in sub folder
+node_modules/
