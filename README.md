@@ -30,3 +30,5 @@ Following mini project has been deployed on Heroku. Follow are the steps
     .   Run `heroku open` to open the app
 ## Snapshots
 ![Demo Gif](gif/to-do-app.gif)
+
+`Checkout the project at : https://todotaskapp-reactjs.herokuapp.com/`
