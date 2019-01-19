@@ -20,5 +20,9 @@ Following mini project has been deployed on Heroku. Follow are the steps
     .   Go to ur app root directory which means u should be inside ur app
     .   Now make sure u commit all the code on the git
     .   Now run this command: `heroku create`
+    .   It will create a git repo for u and will give u the link of the app
+    .   Now run this command : `git remote add heroku <git repo link generated from above command>`
+    .   Now lets push the code to git heroku : `git push heroku master`
+    .   
 ## Snapshots
 ![Demo Gif](gif/to-do-app.gif)
